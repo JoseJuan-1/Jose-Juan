@@ -1,0 +1,175 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+
+    background: #ffd700;
+  text-indent: auto;
+}
+
+h1{
+    text-align: center;
+    color: #c71585;
+}
+
+p{
+    color:black;
+    border-color: aqua;
+    font-size: 25px;
+    text-align: justify;
+    line-height:normal;
+    
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #2f4f4f;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.menu li a{
+ text-decoration: none;
+    color:aliceblue;
+    padding: 20px;
+    display: block;
+}
+
+.menu li{
+   display: inline-block;
+    text-align: center
+    
+    
+}
+
+.menu li a:hover{
+    
+    background: #7fff00;
+}
+    
+table {
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: #7b68ee;
+    color: black;
+    text-align: center;
+    padding: inherit;
+}
+
+caption{
+    
+    background-color:#ff6347;
+   
+        color:white;
+}
+
+.hoy{
+    
+    border="5"  border-color="brown" border-style: groove
+    
+}
+
+.hoy
+
+table td{
+    padding: 10px;
+}
+table tr:hover{
+    
+    background: #ff6347;
+}
+
+.pagina{
+    color:blue;
+    font-size: 20px;
+    text-align: end;
+}
+
+.pie{
+    
+    font-style: italic;
+    text-align: center;
+}
+
+h3,h2{
+    font font-style:oblique;
+    font-size: 25px;
+}
+
+p{
+    
+    padding: 1px
+}
+
+marquee{
+    
+    background: black;
+}
+
+div{
+    
+    
+    width: 100%;
+}
+
+img{
+   width: auto;
+    height: auto;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 5px 5px 1px #ccc;
+    padding: 10px;
+    border: 1px solid blue;
+}
+embed{
+    border-image-slice: 400px;
+    background: blue;
+}
+article,section{
+    background:#ffb6c1;
+    height: auto;
+    width: auto;
+}
+aside{
+    background: #87cefa;
+   
+}
+footer{
+    background: #ffffe0	;
+    text-align: "center"
+}
+
+header{
+    background: #3cb371	;
+    
+}
+
+header, navbar, section, article, aside, footer{
+    
+    
+    width: auto;
+    height: auto;
+}
+
+aside{
+    width: 24.5;
+    background: #deb887;
+    text-align: center;
+    float:right;
+    margin-right: 10px;
+    margin-top: 10px;
+    right: 45px;
+    padding: 5px;
+        
+}
+
+.imagen{
+    width: 300px;
+    height: auto;
+    border-color: firebrick;
+}
+
